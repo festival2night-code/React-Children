@@ -1,0 +1,25 @@
+{
+  "name": "react-children",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A reusable React menu and button component demo.",
+  "engines": {
+    "node": "^18.0.0 || ^20.0.0 || >=22.0.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "classnames": "2.5.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.7.0",
+    "vite": "6.4.5"
+  }
+}
